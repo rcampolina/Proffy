@@ -4,10 +4,13 @@ Project so that teachers and students can meet through a digital platform. Teach
 
 Projeto para que professores e alunos possam se encontrar por meio de uma plataforma digital. Os professores podem se cadastrar e disponibilizar sua agende, bem como disciplinas a serem ministradas. E os alunos podem buscar professores para as disciplinas desejadas em horários desejados.
 
-![image of main screen for Desktop](https://github.com/rcampolina/Proffy/tree/master/web/public/prints/01.png)
-<br/>
-![image of studies screen for Desktop](https://github.com/rcampolina/Proffy/tree/master/web/public/prints/02.png)
-<br/>
-![image of main screen for mobile](https://github.com/rcampolina/Proffy/tree/master/web/public/prints/03.png)
-<br/>
-![image of classes screen for mobile](https://github.com/rcampolina/Proffy/tree/master/web/public/prints/04.png)
+![image of main screen for Desktop](web/public/prints/01.png)
+
+
+![image of studies screen for Desktop](web/public/prints/02.png)
+
+
+![image of main screen for mobile](web/public/prints/03.png)
+
+
+![image of classes screen for mobile](web/public/prints/04.png)
